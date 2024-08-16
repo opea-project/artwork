@@ -8,6 +8,7 @@ The purpose of the 'Powered by OPEA' logo is to denote usage and development of 
 - creating customer-driven solutions that have hosted/managed services using OPEA
 - using OPEA documentation or code for a node and/or Kubernetes cluster on-prem or CSPs
 - co-developing new custom E2E GenAI solutions as may appear as hosted services via CSP marketplaces
+
 Please let us know when you use the logo with a quick email to info@opea.dev
 
 # Use of trademark or logo 
